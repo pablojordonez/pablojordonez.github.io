@@ -30,7 +30,8 @@ Each item is marked with a `TODO` comment in the HTML.
 - [ ] `index.html`: add your LinkedIn address and uncomment the link.
 - [x] `research.html`: Costa Rica paper updated from the CV (new title, coauthors, JEEM conditionally accepted).
 - [ ] `research.html`: status for the Colombia paper, if any; newer drafts of both papers.
-- [ ] `research.html`: abstracts for the PNAS and ERL papers; press coverage link for the PNAS paper.
+- [x] `research.html`: abstracts for the PNAS and ERL papers.
+- [ ] `research.html`: press coverage link for the PNAS paper.
 - [ ] `research.html`: work in progress titles.
 - [x] `cv.html`: CV is at `files/CV_Ordonez.pdf`. Replace the file (same name) to update it.
 - [x] `cv.html`: positions, education, teaching and fellowships filled in from the CV.
